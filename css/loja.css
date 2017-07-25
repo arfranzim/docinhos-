@@ -1,0 +1,11 @@
+body {
+    padding-top: 50px;
+    background-image: url("../imagens/velas.jpg"); 
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+.principal {
+	margin-top: 110px;
+    text-align: center;
+}
